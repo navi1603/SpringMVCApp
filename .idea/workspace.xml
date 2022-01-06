@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringMVCApp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="141b6989-dee4-4585-9c23-3860703905ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1e9A5vFPeS48IsubzSF9spo2Kme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.36" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringMVCApp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringMVCApp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="34687" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVCApp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="304" width="453" height="250" key="#Tomcat_Server" timestamp="1593723663802">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="620" y="304" width="453" height="250" key="#Tomcat_Server/0.27.1366.741@0.27.1366.741" timestamp="1593723663802" />
+    <state x="226" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593723823744">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="226" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1593723823744" />
+    <state x="491" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1593855028458">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="105" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1593855028458" />
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593854617332">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1593854617332" />
+    <state x="434" y="265" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593855518794">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="434" y="265" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1593855518794" />
+    <state x="608" y="155" width="424" height="520" key="FileChooserDialogImpl" timestamp="1593723660184">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="608" y="155" width="424" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1593723660184" />
+    <state width="903" height="172" key="GridCell.Tab.0.bottom" timestamp="1593875353045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593875353045" />
+    <state width="903" height="172" key="GridCell.Tab.0.center" timestamp="1593875353044">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593875353044" />
+    <state width="903" height="172" key="GridCell.Tab.0.left" timestamp="1593875353043">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593875353043" />
+    <state width="903" height="172" key="GridCell.Tab.0.right" timestamp="1593875353045">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593875353045" />
+    <state width="903" height="172" key="GridCell.Tab.1.bottom" timestamp="1593875352755">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593875352755" />
+    <state width="903" height="172" key="GridCell.Tab.1.center" timestamp="1593875352754">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1593875352754" />
+    <state width="903" height="172" key="GridCell.Tab.1.left" timestamp="1593875352754">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1593875352754" />
+    <state width="903" height="172" key="GridCell.Tab.1.right" timestamp="1593875352754">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1593875352754" />
+    <state width="903" height="172" key="GridCell.Tab.2.bottom" timestamp="1593875352756">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.2.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593875352756" />
+    <state width="903" height="172" key="GridCell.Tab.2.center" timestamp="1593875352755">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.2.center/0.27.1366.741@0.27.1366.741" timestamp="1593875352755" />
+    <state width="903" height="172" key="GridCell.Tab.2.left" timestamp="1593875352755">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.2.left/0.27.1366.741@0.27.1366.741" timestamp="1593875352755" />
+    <state width="903" height="172" key="GridCell.Tab.2.right" timestamp="1593875352756">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="903" height="172" key="GridCell.Tab.2.right/0.27.1366.741@0.27.1366.741" timestamp="1593875352756" />
+  </component>
+</project>
